@@ -1,0 +1,13 @@
+body {
+  background-color: aqua;
+}
+
+.heading {
+  color: brown;
+  font-size: 2rem;
+}
+
+#green-txt {
+  color:rgb(11, 14, 184);
+  font-size: 1.5rem;
+}
